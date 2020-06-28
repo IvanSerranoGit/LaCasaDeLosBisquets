@@ -577,6 +577,9 @@ body {
   }
   .my-logo{
     border-radius: 50%;
+    width: 230px;
+    height: 220px;
+    object-fit: cover;
     background-color: rgb(64, 44, 73);
     box-shadow: rgba(56, 52, 56, 0.78) 6px 4px 19px -8px;
   }
